@@ -1,0 +1,8 @@
+.App-content__title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.App-content__description {
+    margin: 0 10px 10px;
+}
